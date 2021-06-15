@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdelrahman-tera
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in HTML - CSS - JS
+- 🌱 I’m currently learning Front-End web Developer
 
 <!---
 Abdelrahman-tera/Abdelrahman-tera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
